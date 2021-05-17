@@ -1,0 +1,8 @@
+main_files
+*.o
+*.swp
+*.swo
+*.gch
+libft.a
+auteur
+a.out
